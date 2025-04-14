@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/digital-memorial/static/css/main.e6c13ad2.css",
-    "main.js": "/digital-memorial/static/js/main.e222077a.js",
+    "main.js": "/digital-memorial/static/js/main.2e73c71d.js",
     "index.html": "/digital-memorial/index.html",
     "main.e6c13ad2.css.map": "/digital-memorial/static/css/main.e6c13ad2.css.map",
-    "main.e222077a.js.map": "/digital-memorial/static/js/main.e222077a.js.map"
+    "main.2e73c71d.js.map": "/digital-memorial/static/js/main.2e73c71d.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e222077a.js"
+    "static/js/main.2e73c71d.js"
   ]
 }
