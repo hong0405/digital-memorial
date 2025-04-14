@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/digital-memorial/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/digital-memorial/static/js/main.5c8ca2c0.chunk.js",
-    "main.js.map": "/digital-memorial/static/js/main.5c8ca2c0.chunk.js.map",
-    "runtime~main.js": "/digital-memorial/static/js/runtime~main.78b51737.js",
-    "runtime~main.js.map": "/digital-memorial/static/js/runtime~main.78b51737.js.map",
-    "static/js/2.f272b5a1.chunk.js": "/digital-memorial/static/js/2.f272b5a1.chunk.js",
-    "static/js/2.f272b5a1.chunk.js.map": "/digital-memorial/static/js/2.f272b5a1.chunk.js.map",
+    "main.css": "/digital-memorial/static/css/main.e6c13ad2.css",
+    "main.js": "/digital-memorial/static/js/main.4c27f159.js",
     "index.html": "/digital-memorial/index.html",
-    "precache-manifest.2c96517a278dc26b487ddf554183252f.js": "/digital-memorial/precache-manifest.2c96517a278dc26b487ddf554183252f.js",
-    "service-worker.js": "/digital-memorial/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/digital-memorial/static/css/main.5ecd60fb.chunk.css.map"
-  }
+    "main.e6c13ad2.css.map": "/digital-memorial/static/css/main.e6c13ad2.css.map",
+    "main.4c27f159.js.map": "/digital-memorial/static/js/main.4c27f159.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4c27f159.js"
+  ]
 }
